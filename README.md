@@ -6,12 +6,12 @@
 
 ## About me:
 
--🧑‍💻 My full name is Luis Ernesto Toledo Alvarez, Cuban, 17 years old.
--🏆 Winner of math competitions.
--✨ Passionate about algorithms and web development.
--🌱 Self-taught | Creating projects at <a href="https://www.frontendmentor.io/profile/LuisE-dex">@FrontendMentor</a>.
--🔍 I am looking for internships in backend and frontend development.
-<br>
+-🧑‍💻 My full name is Luis Ernesto Toledo Alvarez, Cuban, 17 years old.<br>
+-🏆 Winner of math competitions.<br>
+-✨ Passionate about algorithms and web development.<br>
+-🌱 Self-taught | Creating projects at <a href="https://www.frontendmentor.io/profile/LuisE-dex">@FrontendMentor</a>.<br>
+-🔍 I am looking for internships in backend and frontend development.<br>
+
 
 
 
