@@ -1,7 +1,7 @@
 <div align="center">
    <h1>Hi!, I'm LuisErneto👋</h1>  
    <p>🚀Welcome to my GitHub profile🚀</p>
-   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format" alt="Banner" width="100%">
+   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format" alt="Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 ## About me:
