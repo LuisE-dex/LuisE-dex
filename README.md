@@ -1,7 +1,6 @@
 <div align="center">
-   <h1>🚀 Mi Proyecto 🚀</h1>  
-   <p>¡Bienvenido a mi repositorio!</p>  
-   <img src="https://via.placeholder.com/150" alt="Placeholder">  
+   <h1>Hi!, I'm LuisErneto👋</h1>  
+   <p>🚀Welcome to my GitHub profile🚀</p>  
 </div>
 
 
