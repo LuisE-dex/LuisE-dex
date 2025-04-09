@@ -1,6 +1,6 @@
-<div aling="center">
+
 <h1 style="text-align: center;">Hi!, I'm LuisErnesto👋</h1>
-</div>
+
 
 <!--
 **LuisE-dex/LuisE-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
