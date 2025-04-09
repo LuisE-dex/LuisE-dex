@@ -4,6 +4,16 @@
    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&auto=format" alt="Banner" width="100%">
 </div>
 
+## About me:
+
+-🧑‍💻 My full name is Luis Ernesto Toledo Alvarez, Cuban, 17 years old.
+-🏆 Winner of math competitions.
+-✨ Passionate about algorithms and web development.
+-🌱 Self-taught | Creating projects at <a href="https://www.frontendmentor.io/profile/LuisE-dex">@FrontendMentor</a>.
+-🔍 I am looking for internships in backend and frontend development.
+<br>
+
+
 
 <!--
 **LuisE-dex/LuisE-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
