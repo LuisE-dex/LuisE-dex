@@ -1,5 +1,5 @@
 <div aling="center">
-<h1 aling="center" color="blue">Hi!, I'm LuisErnesto👋</h1>
+<h1 style="text-align: center;">Hi!, I'm LuisErnesto👋</h1>
 </div>
 
 <!--
