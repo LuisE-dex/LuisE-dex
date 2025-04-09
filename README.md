@@ -1,5 +1,8 @@
-
-<h1 style="text-align: center;">Hi!, I'm LuisErnesto👋</h1>
+<div align="center">
+   <h1>🚀 Mi Proyecto 🚀</h1>  
+   <p>¡Bienvenido a mi repositorio!</p>  
+   <img src="https://via.placeholder.com/150" alt="Placeholder">  
+</div>
 
 
 <!--
