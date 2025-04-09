@@ -1,6 +1,13 @@
+<style>
+    h1{
+        color: blue;
+    }
+</style>
+
 <div aling="center">
 <h1 aling="center">Hi!, I'm LuisErnesto👋</h1>
 </div>
+
 
 <!--
 **LuisE-dex/LuisE-dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
