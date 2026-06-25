@@ -16,6 +16,20 @@ I love leveraging my logical and analytical skills to solve complex problems and
 
 ---
 
+# 🛠️ Tech Stack
+
+Here are the languages and tools I've worked with:
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,c,cpp,cs,java,python&perline=11" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,mongodb,git,docker,postman,linux,windows&perline=11" />
+</div>
+
+<br>
+
+---
+
 # 📊 GitHub Statistics
 
 <br>
@@ -47,21 +61,6 @@ I love leveraging my logical and analytical skills to solve complex problems and
     </td>
   </tr>
 </table>
-
-
----
-
-# 🛠️ Tech Stack
-
-Here are the languages and tools I've worked with:
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,c,cpp,cs,java,python&perline=11" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,postgres,mongodb,git,docker,postman,linux,windows&perline=11" />
-</div>
-
-<br>
 
 ---
 
